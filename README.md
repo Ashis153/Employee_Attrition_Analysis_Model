@@ -42,7 +42,7 @@ The core of the system relies on two specialized pipelines designed to handle th
 | Domain | Technologies |
 | :--- | :--- |
 | **Data Science** | `Pandas`, `NumPy`, `Seaborn`, `Matplotlib` |
-| **Machine Learning** | `Scikit-Learn`, `Imbalanced-Learn (SMOTE)`, `XGBoost` |
+| **Machine Learning** | `Scikit-Learn`, `Imbalanced-Learn (SMOTE)` |
 | **Deployment** | `Streamlit`, `Pickle` (Serialization) |
 
 ---
